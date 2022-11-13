@@ -1,0 +1,4 @@
+module CxxExample {
+    header "CxxExample.hpp"
+    requires cplusplus
+}
